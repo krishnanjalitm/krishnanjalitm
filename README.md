@@ -115,9 +115,9 @@ Every bug fixed, every project completed, and every lesson learned is another up
 
 ## 🤝 Let's Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* 🌐 Portfolio: [https://YOUR_WEBSITE.com](https://krishnanjali-portfolio.vercel.app/)
-* 📧 Email: [your.email@example.com](mailto:krishnanjalitm@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/krishnanjalitm
+* 🌐 Portfolio: [portfolio](https://krishnanjali-portfolio.vercel.app/)
+* 📧 Email: [krishnanjalitm](mailto:krishnanjalitm@gmail.com)
 
 ---
 
