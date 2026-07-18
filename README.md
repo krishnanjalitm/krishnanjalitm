@@ -1,191 +1,221 @@
 <div align="center">
 
-# ⚡ KRISHNANJALI T M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:06b6d4&height=220&section=header&text=Krishnanjali%20T%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Code.+Build.+Innovate.;MCA+Student+%7C+Software+Engineer.;Full+Stack+Developer.;AI+Enthusiast.;Powered+By+Curiosity+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=MCA+Student+%7C+Aspiring+Software+Engineer;AI+%7C+Full+Stack+%7C+Open+Source;Building+Solutions+that+Create+Impact;Always+Learning.+Always+Building." />
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=red&style=for-the-badge)
+<p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+</p>
 
 </div>
 
 ---
 
-# ⚡ J.A.R.V.I.S Boot Sequence
+# 👋 Hello, I'm Krishnanjali
 
-```yaml
-> Initializing...
-████████████████████ 100%
+> *"The best way to predict the future is to build it."*
 
-User          : Krishnanjali T M
-Role          : MCA Student
-Mode          : BUILD
-Status        : ONLINE
-Suit Version  : MARK XLII (Student Edition)
-Mission       : Become Software Engineer
-```
+I'm an **MCA student** passionate about building intelligent software that solves real-world problems.
 
----
+I enjoy combining **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development** to create impactful applications.
 
-# 💻 About Me
+Currently focusing on
 
-<img align="right" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-
-> "Sometimes you gotta run before you can walk."
-
-— Tony Stark
-
-I'm an MCA student passionate about creating software that solves real-world problems.
-
-🚀 Learning every day.
-
-⚡ Building full-stack applications.
-
-🤖 Exploring Artificial Intelligence.
-
-🌐 Open Source Contributor.
-
-☕ Coffee + Code = Productivity
+- 💻 Software Engineering
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Development
+- ☁ Cloud Computing
+- 🚀 Open Source
 
 ---
 
-# ⚙ Tech Arsenal
+# 🚀 Featured Projects
 
-## Languages
+## 🌾 AgroEase
+> AI-powered Agricultural Document Intelligence Platform
+
+- Extracts information from agricultural PDF documents
+- Uses Large Language Models (LLMs)
+- Converts unstructured documents into structured agricultural knowledge
+- Generates intelligent summaries
+
+**Tech**
+
+Python • Flask • Gemini AI • PyMuPDF • JSON
+
+---
+
+## 🎓 Edu2Job
+
+An AI-powered career prediction and placement preparation platform.
+
+### Features
+
+- ML-based career prediction
+- Personalized roadmap
+- Mock Interview
+- Mock Test
+- Skill Gap Analysis
+- Resume Assistance
+
+**Tech**
+
+React • Flask • MongoDB • Scikit-Learn • JWT
+
+---
+
+## 🧠 AlzCare
+
+A smart assistance system designed for Alzheimer's patients.
+
+### Features
+
+- Patient monitoring
+- Reminder system
+- Emergency support
+- Caregiver assistance
+
+---
+
+## 📚 Smart Study Generator
+
+Built using IBM Business Operations Builder.
+
+### Features
+
+- AI Study Notes
+- Question Generation
+- Personalized Learning
+- Smart Content Organization
+
+Technologies
+
+IBM BOB • IBM Granite • RAG • LangFlow
+
+---
+
+## 🔥 Forest Fire Prediction
+
+Developed during Infosys Virtual Internship.
+
+Machine Learning model for predicting forest fire occurrence using environmental data.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
-
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
 </p>
 
-## Frontend
+### Frontend
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
-
 </p>
 
-## Backend
+### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
+<img src="https://skillicons.dev/icons?i=flask,nodejs"/>
 </p>
 
-## Database
+### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-## Tools
+### AI & ML
 
 <p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+- Machine Learning
+- LLMs
+- RAG
+- Prompt Engineering
+- AI Agents
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Achievements
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=10"/>
-
-</p>
+- 🥈 INNOFEST 2026 – AgroEase secured Second Prize
+- 🎓 MCA Student
+- 🏅 Google Launchpad for Women – GenAI Leader
+- ☁ Infosys Virtual Internship Completed
+- 🚀 IBM BOB Project Developer
+- 💡 Passionate about AI and Software Engineering
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🚀 Current Mission
+# 🎯 Currently Learning
 
 ```text
-Loading Skills...
+██████████████████░░░░░░
 
-█████████████████░░░░░░ 75%
-
-✔ Full Stack
-✔ DSA
-✔ AI
-✔ Cloud
+✔ Data Structures & Algorithms
+✔ System Design
+✔ Full Stack Development
+✔ Cloud Computing
+✔ Generative AI
+✔ Agentic AI
 ✔ Open Source
 ```
 
 ---
 
-# 🤖 J.A.R.V.I.S System Status
+# 🤖 Developer Status
 
 ```yaml
-Power Source : Curiosity
-Coffee Level : ██████████░░ 86%
-Debugging    : ACTIVE
-Motivation   : ████████████ 100%
-Sleep Mode   : DISABLED
+Status        : Building
+Learning      : Every Day
+Coffee        : ██████████░░ 90%
+Debugging     : Active
+Motivation    : ████████████
+Current Goal  : Software Engineer
 ```
-
----
-
-# 🎯 2026 Mission
-
-- ✅ Master DSA
-- ✅ Crack Software Interviews
-- 🔄 Build AI Projects
-- 🔄 Learn Cloud
-- 🔄 Open Source Contributions
-- 🔄 Become Full Stack Developer
-
----
-
-# 💬 Favorite Quotes
-
-> Heroes are made by the paths they choose.
-
-> Part of the journey is the end.
 
 ---
 
@@ -193,22 +223,16 @@ Sleep Mode   : DISABLED
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/krishnanjali-t-m-369178317/">
-
+<a href="https://linkedin.com/in/krishnanjali-t-m-369178317">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-
 </a>
 
-<a href="https://krishnanjali-portfolio.vercel.app">
-
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
-
+<a href="https://krishnanjali-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
 
 <a href="mailto:krishnanjalitm@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 </p>
@@ -217,12 +241,8 @@ Sleep Mode   : DISABLED
 
 <div align="center">
 
-# ❤️ "I am not Iron Man...
+## 💙 "Every project is another step toward becoming the engineer I aspire to be."
 
-## I'm building my own suit,
-
-## one line of code at a time."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:1e3a8a&height=120&section=footer"/>
 
 </div>
