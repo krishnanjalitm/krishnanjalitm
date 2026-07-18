@@ -1,137 +1,184 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Krishnanjali%20T%20M&fontSize=50&fontAlignY=40&animation=twinkling&color=0:6A5ACD,25:8A2BE2,50:00FFFF,75:4B0082,100:FF00FF"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Software+Engineer+in+Progress;AI+%7C+Full+Stack+Developer;Coffee+%2B+Code+%3D+Magic+✨;Always+Building+Something+Amazing"/>
-
-</div>
-# 👋 Hi, I'm **Krishnanjali T M**
+# 👋 Hello, I'm Krishnanjali T M
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Code.+Build.+Innovate.;MCA+Student+%7C+Aspiring+Software+Engineer.;Powered+by+Curiosity+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;MCA+Student+%40+KTU;Building+LLM+Powered+Applications;Python+%7C+Flask+%7C+React;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## ⚡ About Me
+## 💫 About Me
 
-> *"Sometimes you gotta run before you can walk."* — **Tony Stark**
+🎓 MCA Student (KTU)
 
-I'm an **MCA (Master of Computer Applications) student** passionate about software development, problem-solving, and building technology that makes an impact.
+💻 Computer Science Graduate passionate about AI, Software Development, and Full Stack Web Development.
 
-Like **Tony Stark**, I believe every project is another version of the suit—constantly improving, learning from failures, and upgrading with every iteration.
+🤖 Currently building AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Flask.
 
-* 🎓 MCA Student
-* 💻 Passionate about Software Development
-* 🌱 Currently learning Full Stack Development, Cloud, and AI
-* 🔍 Exploring Open Source Contributions
-* 🚀 Always building something new
-* ☕ Coffee + Code = Productivity
+🌱 Exploring
+- Generative AI
+- Agentic AI
+- RAG Systems
+- NLP
+- Machine Learning
+- Backend Development
+
+🎯 Goal
+> To become a Software Engineer specializing in AI-powered applications that solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash,javascript,html,css" />
+</p>
 
-### Web Development
+### Frameworks & Libraries
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,flask" />
+</p>
+
+### AI / Machine Learning
+
+- Large Language Models (LLMs)
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Scikit-Learn
+- NumPy
+- Pandas
+- Matplotlib
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🌟 Featured Projects
+
+## 🌾 AI-Powered Agricultural Document Information Extraction
+
+> Extract structured agricultural knowledge from unstructured PDF documents using Large Language Models.
+
+### Features
+
+- 📄 PDF Upload
+- 🤖 LLM-based Information Extraction
+- 🌱 Crop Identification
+- 🪴 Soil Type Detection
+- 💧 Irrigation Recommendation
+- 🌿 Fertilizer Recommendation
+- 🐛 Pest & Disease Detection
+- 📊 Structured JSON Output
+
+**Tech Stack**
+
+Python • Flask • Gemini API • PyMuPDF • HTML • CSS • JavaScript
+
+---
+
+## 🎓 Edu2Job
+
+AI-powered career guidance platform for students.
+
+### Features
+
+- Skill Gap Analysis
+- Placement Prediction
+- Mock Tests
+- Mock Interviews
+- Personalized Learning Roadmap
+- Explainable AI
+
+**Tech Stack**
+
+React • Flask • MongoDB • Machine Learning • JWT
+
+---
+
+# 📚 Currently Learning
+
+- Agentic AI
+- Advanced Prompt Engineering
+- RAG Pipelines
+- Vector Databases
+- LangChain
+- LLM Application Development
+- Software Architecture
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishnanjalitm&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanjalitm&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🚀 Current Mission
+# 📈 Most Used Languages
 
-```text
-[████████████░░░░░░] 72%
+<p align="center">
 
-Building Skills...
-Learning New Technologies...
-Preparing for Industry...
-```
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanjalitm&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🦾 J.A.R.V.I.S. Status
+# 🏆 GitHub Trophies
 
-```yaml
-Suit: Mark XLII (Student Edition)
-Power Source: Curiosity
-Energy Level: ████████████ 100%
-Coffee Level: ██████████░░ 85%
-Debugging: In Progress
-Sleep: Optional
-```
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=krishnanjalitm&theme=algolia&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
-## 🎯 Goals for 2026
+# 🌐 Connect With Me
 
-* ✅ Master Data Structures & Algorithms
-* ✅ Build Full Stack Projects
-* 🔄 Contribute to Open Source
-* 🔄 Learn Cloud Technologies
-* 🔄 Crack Software Engineering Interviews
-* 🔄 Build AI-powered Applications
+<p>
 
----
+<a href="https://github.com/krishnanjalitm">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-## 💭 Favorite Quote
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-> **"Heroes are made by the paths they choose, not the powers they are graced with."**
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-And in true Tony Stark fashion:
-
-> **"Part of the journey is the end."**
-
-Every bug fixed, every project completed, and every lesson learned is another upgrade to the suit.
+</p>
 
 ---
 
-## 🤝 Let's Connect
+# 💡 Developer Quote
 
-* 💼 LinkedIn: https://linkedin.com/in/krishnanjalitm
-* 🌐 Portfolio: [portfolio](https://krishnanjali-portfolio.vercel.app/)
-* 📧 Email: [krishnanjalitm](mailto:krishnanjalitm@gmail.com)
+> "Code is more than solving problems—it's about creating solutions that make a difference."
 
 ---
 
 <p align="center">
 
-### <i>"I am not Iron Man... but I'm building my own suit, one line of code at a time."</i>
+<img src="https://komarev.com/ghpvc/?username=krishnanjalitm&style=for-the-badge&color=blueviolet"/>
 
-⭐ *Thanks for visiting my profile!*
-
-</p> 
+</p>
