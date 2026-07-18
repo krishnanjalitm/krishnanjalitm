@@ -1,116 +1,127 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e40af,100:06b6d4&height=220&section=header&text=Krishnanjali%20T%20M&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F5FF,50:1E90FF,100:6A5ACD&text=KRISHNANJALI%20T%20M&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=MCA+Student+%7C+Aspiring+Software+Engineer;AI+%7C+Full+Stack+%7C+Open+Source;Building+Solutions+that+Create+Impact;Always+Learning.+Always+Building." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=J.A.R.V.I.S+ONLINE...;MCA+Student+%7C+Aspiring+Software+Engineer;AI+%7C+Full+Stack+Developer;Building+Solutions+Through+Code;Always+Learning+%E2%9A%A1"/>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=0ea5e9"/>
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=8b5cf6"/>
 </p>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Krishnanjali
+# ⚡ J.A.R.V.I.S. SYSTEM
 
-> *"The best way to predict the future is to build it."*
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-I'm an **MCA student** passionate about building intelligent software that solves real-world problems.
+SYSTEM INITIALIZING...
 
-I enjoy combining **Artificial Intelligence**, **Machine Learning**, and **Full Stack Development** to create impactful applications.
+████████████████████████████████████ 100%
 
-Currently focusing on
+IDENTITY      : KRISHNANJALI T M
+ROLE          : MCA Student
+STATUS        : ONLINE
+MISSION       : Become a Software Engineer
+LOCATION      : Kerala, India
+MODE          : BUILD • LEARN • INNOVATE
 
-- 💻 Software Engineering
-- 🤖 Artificial Intelligence
-- 🌐 Full Stack Development
-- ☁ Cloud Computing
-- 🚀 Open Source
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 👨‍💻 About Me
+
+> *"Every line of code is another step toward building something meaningful."*
+
+I'm an **MCA student** with a passion for **Software Engineering**, **Artificial Intelligence**, and **Full Stack Development**. I enjoy solving real-world problems by building practical applications and continuously expanding my technical skills.
+
+- 🎓 MCA Student
+- 💻 Aspiring Software Engineer
+- 🤖 Exploring AI & Large Language Models
+- 🌐 Full Stack Development Enthusiast
+- ☁️ Learning Cloud Technologies
+- 🚀 Open Source Learner
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌾 AgroEase
-> AI-powered Agricultural Document Intelligence Platform
-
-- Extracts information from agricultural PDF documents
-- Uses Large Language Models (LLMs)
-- Converts unstructured documents into structured agricultural knowledge
-- Generates intelligent summaries
-
-**Tech**
-
-Python • Flask • Gemini AI • PyMuPDF • JSON
-
----
-
 ## 🎓 Edu2Job
+**AI-Based Career Prediction & Placement Preparation Platform**
 
-An AI-powered career prediction and placement preparation platform.
+- AI-powered career prediction
+- Personalized learning roadmap
+- Skill gap analysis
+- Mock tests & interview preparation
+- Student progress dashboard
 
-### Features
+**Tech Stack**
 
-- ML-based career prediction
-- Personalized roadmap
-- Mock Interview
-- Mock Test
-- Skill Gap Analysis
-- Resume Assistance
-
-**Tech**
-
-React • Flask • MongoDB • Scikit-Learn • JWT
+`React` `Flask` `MongoDB` `Scikit-learn` `JWT`
 
 ---
 
-## 🧠 AlzCare
+## 🌾 AI-Powered Agricultural Document Information Extraction
 
-A smart assistance system designed for Alzheimer's patients.
+Extracts structured agricultural knowledge from unstructured PDF documents using Large Language Models.
 
 ### Features
 
-- Patient monitoring
-- Reminder system
-- Emergency support
-- Caregiver assistance
+- PDF Information Extraction
+- Crop Identification
+- Soil Type Detection
+- Fertilizer Recommendations
+- Irrigation Schedule
+- Pest & Disease Extraction
+
+**Tech Stack**
+
+`Python` `Flask` `Google Gemini` `PyMuPDF` `JSON`
 
 ---
 
 ## 📚 Smart Study Generator
 
-Built using IBM Business Operations Builder.
+Built using **IBM Business Operations Builder (BOB)**.
 
 ### Features
 
-- AI Study Notes
-- Question Generation
+- AI-generated Study Notes
+- Smart Question Generation
+- Knowledge Organization
 - Personalized Learning
-- Smart Content Organization
 
-Technologies
+**Tech**
 
-IBM BOB • IBM Granite • RAG • LangFlow
-
----
-
-## 🔥 Forest Fire Prediction
-
-Developed during Infosys Virtual Internship.
-
-Machine Learning model for predicting forest fire occurrence using environmental data.
+`IBM BOB` `IBM Granite` `RAG`
 
 ---
 
-# 💻 Tech Stack
+## 🧠 AlzCare
+
+Healthcare support application for Alzheimer's patients.
+
+### Features
+
+- Medication reminders
+- Patient assistance
+- Caregiver support
+- Emergency alerts
+
+---
+
+# ⚙️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
 </p>
 
 ### Frontend
@@ -131,45 +142,40 @@ Machine Learning model for predicting forest fire occurrence using environmental
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 </p>
 
-### AI & ML
+### AI & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-- Machine Learning
-- LLMs
-- RAG
+**Also Exploring**
+
 - Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models
 - AI Agents
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Dashboard
 
-<p align="center">
+<div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -179,42 +185,51 @@ Machine Learning model for predicting forest fire occurrence using environmental
 
 ---
 
-# 🏆 Achievements
+# 🏆 GitHub Trophies
 
-- 🥈 INNOFEST 2026 – AgroEase secured Second Prize
-- 🎓 MCA Student
-- 🏅 Google Launchpad for Women – GenAI Leader
-- ☁ Infosys Virtual Internship Completed
-- 🚀 IBM BOB Project Developer
-- 💡 Passionate about AI and Software Engineering
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
 
 ---
 
-# 🎯 Currently Learning
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action in your profile repository to generate this animation.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
 
 ```text
-██████████████████░░░░░░
+████████████████████░░░░░
 
-✔ Data Structures & Algorithms
-✔ System Design
 ✔ Full Stack Development
+✔ Data Structures & Algorithms
+✔ Artificial Intelligence
 ✔ Cloud Computing
-✔ Generative AI
-✔ Agentic AI
 ✔ Open Source
 ```
 
 ---
 
-# 🤖 Developer Status
+# 📡 SYSTEM STATUS
 
 ```yaml
-Status        : Building
-Learning      : Every Day
-Coffee        : ██████████░░ 90%
-Debugging     : Active
-Motivation    : ████████████
-Current Goal  : Software Engineer
+CPU Usage       : ██████████ 95%
+Learning Mode   : ACTIVE
+Debugging       : RUNNING
+Coffee Level    : ████████░░
+Motivation      : ██████████
+Mission         : Crack Software Engineering Interviews
 ```
 
 ---
@@ -227,9 +242,13 @@ Current Goal  : Software Engineer
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://krishnanjali-portfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:krishnanjalitm@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -241,8 +260,10 @@ Current Goal  : Software Engineer
 
 <div align="center">
 
-## 💙 "Every project is another step toward becoming the engineer I aspire to be."
+## ⚡ BUILD • LEARN • INNOVATE
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:1e3a8a&height=120&section=footer"/>
+*"The future isn't written. We build it, one commit at a time."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:00F5FF,50:1E90FF,100:6A5ACD"/>
 
 </div>
