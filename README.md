@@ -1,130 +1,228 @@
-# 👋 Hi, I'm **Krishnanjali T M**
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=E62429&center=true&vCenter=true&width=600&lines=Code.+Build.+Innovate.;MCA+Student+%7C+Aspiring+Software+Engineer.;Powered+by+Curiosity+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+# ⚡ KRISHNANJALI T M
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Code.+Build.+Innovate.;MCA+Student+%7C+Software+Engineer.;Full+Stack+Developer.;AI+Enthusiast.;Powered+By+Curiosity+🚀" />
 
-## ⚡ About Me
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
 
-> *"Sometimes you gotta run before you can walk."* — **Tony Stark**
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=red&style=for-the-badge)
 
-I'm an **MCA (Master of Computer Applications) student** passionate about software development, problem-solving, and building technology that makes an impact.
-
-Like **Tony Stark**, I believe every project is another version of the suit—constantly improving, learning from failures, and upgrading with every iteration.
-
-* 🎓 MCA Student
-* 💻 Passionate about Software Development
-* 🌱 Currently learning Full Stack Development, Cloud, and AI
-* 🔍 Exploring Open Source Contributions
-* 🚀 Always building something new
-* ☕ Coffee + Code = Productivity
+</div>
 
 ---
 
-## 🛠 Tech Stack
-
-### Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🚀 Current Mission
-
-```text
-[████████████░░░░░░] 72%
-
-Building Skills...
-Learning New Technologies...
-Preparing for Industry...
-```
-
----
-
-## 🦾 J.A.R.V.I.S. Status
+# ⚡ J.A.R.V.I.S Boot Sequence
 
 ```yaml
-Suit: Mark XLII (Student Edition)
-Power Source: Curiosity
-Energy Level: ████████████ 100%
-Coffee Level: ██████████░░ 85%
-Debugging: In Progress
-Sleep: Optional
+> Initializing...
+████████████████████ 100%
+
+User          : Krishnanjali T M
+Role          : MCA Student
+Mode          : BUILD
+Status        : ONLINE
+Suit Version  : MARK XLII (Student Edition)
+Mission       : Become Software Engineer
 ```
 
 ---
 
-## 🎯 Goals for 2026
+# 💻 About Me
 
-* ✅ Master Data Structures & Algorithms
-* ✅ Build Full Stack Projects
-* 🔄 Contribute to Open Source
-* 🔄 Learn Cloud Technologies
-* 🔄 Crack Software Engineering Interviews
-* 🔄 Build AI-powered Applications
+<img align="right" width="350" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
+> "Sometimes you gotta run before you can walk."
+
+— Tony Stark
+
+I'm an MCA student passionate about creating software that solves real-world problems.
+
+🚀 Learning every day.
+
+⚡ Building full-stack applications.
+
+🤖 Exploring Artificial Intelligence.
+
+🌐 Open Source Contributor.
+
+☕ Coffee + Code = Productivity
+
+---
+
+# ⚙ Tech Arsenal
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</p>
 
 ---
 
-## 💭 Favorite Quote
-
-> **"Heroes are made by the paths they choose, not the powers they are graced with."**
-
-And in true Tony Stark fashion:
-
-> **"Part of the journey is the end."**
-
-Every bug fixed, every project completed, and every lesson learned is another upgrade to the suit.
-
----
-
-## 🤝 Let's Connect
-
-* 💼 LinkedIn: https://linkedin.com/in/krishnanjalitm
-* 🌐 Portfolio: [portfolio](https://krishnanjali-portfolio.vercel.app/)
-* 📧 Email: [krishnanjalitm](mailto:krishnanjalitm@gmail.com)
-
----
+# 📊 GitHub Analytics
 
 <p align="center">
 
-### <i>"I am not Iron Man... but I'm building my own suit, one line of code at a time."</i>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-⭐ *Thanks for visiting my profile!*
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7&margin-w=10"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🚀 Current Mission
+
+```text
+Loading Skills...
+
+█████████████████░░░░░░ 75%
+
+✔ Full Stack
+✔ DSA
+✔ AI
+✔ Cloud
+✔ Open Source
+```
+
+---
+
+# 🤖 J.A.R.V.I.S System Status
+
+```yaml
+Power Source : Curiosity
+Coffee Level : ██████████░░ 86%
+Debugging    : ACTIVE
+Motivation   : ████████████ 100%
+Sleep Mode   : DISABLED
+```
+
+---
+
+# 🎯 2026 Mission
+
+- ✅ Master DSA
+- ✅ Crack Software Interviews
+- 🔄 Build AI Projects
+- 🔄 Learn Cloud
+- 🔄 Open Source Contributions
+- 🔄 Become Full Stack Developer
+
+---
+
+# 💬 Favorite Quotes
+
+> Heroes are made by the paths they choose.
+
+> Part of the journey is the end.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/krishnanjalitm">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="https://krishnanjali-portfolio.vercel.app">
+
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"/>
+
+</a>
+
+<a href="mailto:krishnanjalitm@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+# ❤️ "I am not Iron Man...
+
+## I'm building my own suit,
+
+## one line of code at a time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
