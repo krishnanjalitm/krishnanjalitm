@@ -113,7 +113,7 @@ Student → AI Analysis → Placement Roadmap
 
 # 🐍 CONTRIBUTION MATRIX
 
-<img src="https://raw.githubusercontent.com/krishnanjalitm/krishnanjalitm/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/krishnanjalitm/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
