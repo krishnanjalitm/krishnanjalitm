@@ -1,3 +1,10 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Krishnanjali%20T%20M&fontSize=50&fontAlignY=40&animation=twinkling&color=0:6A5ACD,25:8A2BE2,50:00FFFF,75:4B0082,100:FF00FF"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=850&lines=Software+Engineer+in+Progress;AI+%7C+Full+Stack+Developer;Coffee+%2B+Code+%3D+Magic+✨;Always+Building+Something+Amazing"/>
+
+</div>
 # 👋 Hi, I'm **Krishnanjali T M**
 
 <p align="center">
