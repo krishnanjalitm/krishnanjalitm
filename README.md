@@ -1,57 +1,52 @@
-# 👋 Hello, I'm Krishnanjali T M
+<!-- ========================= HEADER ========================= -->
+
+<h1 align="center">Hi 👋, I'm Krishnanjali T M</h1>
+
+<h3 align="center">
+AI Enthusiast • Software Developer • MCA Student @ KTU
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=AI+%26+Software+Developer;MCA+Student+%40+KTU;Building+LLM+Powered+Applications;Python+%7C+Flask+%7C+React;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Applications;Python+%7C+Flask+%7C+React;LLMs+%7C+RAG+%7C+Machine+Learning;Always+Learning+Something+New+🚀" />
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-🎓 MCA Student (KTU)
+🎓 MCA Student (APJ Abdul Kalam Technological University)
 
-💻 Computer Science Graduate passionate about AI, Software Development, and Full Stack Web Development.
+💻 Passionate about Artificial Intelligence, Machine Learning, Backend Development, and Full Stack Web Development.
 
-🤖 Currently building AI-powered applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Flask.
+🌱 Currently learning
 
-🌱 Exploring
-- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
 - Agentic AI
-- RAG Systems
-- NLP
-- Machine Learning
-- Backend Development
+- Generative AI
+- Software Architecture
 
-🎯 Goal
-> To become a Software Engineer specializing in AI-powered applications that solve real-world problems.
+🎯 Career Goal
+
+> To become an AI Software Engineer building intelligent products that solve real-world problems.
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### Programming Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,bash,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,bash,html,css" />
 </p>
 
-### Frameworks & Libraries
+### Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,flask" />
 </p>
 
-### AI / Machine Learning
-
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Scikit-Learn
-- NumPy
-- Pandas
-- Matplotlib
-
-### Database
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
@@ -63,118 +58,139 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
+### AI / ML
+
+- 🤖 Large Language Models (LLMs)
+- 🧠 Machine Learning
+- 📄 NLP
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🐍 Scikit-Learn
+- 📊 Pandas
+- 🔢 NumPy
+- 📈 Matplotlib
+
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
 ## 🌾 AI-Powered Agricultural Document Information Extraction
 
-> Extract structured agricultural knowledge from unstructured PDF documents using Large Language Models.
+Extract structured agricultural knowledge from PDF documents using LLMs.
 
-### Features
+**Tech**
 
-- 📄 PDF Upload
-- 🤖 LLM-based Information Extraction
-- 🌱 Crop Identification
-- 🪴 Soil Type Detection
-- 💧 Irrigation Recommendation
-- 🌿 Fertilizer Recommendation
-- 🐛 Pest & Disease Detection
-- 📊 Structured JSON Output
-
-**Tech Stack**
-
-Python • Flask • Gemini API • PyMuPDF • HTML • CSS • JavaScript
+`Python` `Flask` `Gemini API` `PyMuPDF` `JavaScript`
 
 ---
 
 ## 🎓 Edu2Job
 
-AI-powered career guidance platform for students.
+AI-powered placement preparation platform.
 
 ### Features
 
-- Skill Gap Analysis
 - Placement Prediction
-- Mock Tests
 - Mock Interviews
-- Personalized Learning Roadmap
-- Explainable AI
+- Skill Gap Analysis
+- Learning Roadmap
+- Explainable AI Dashboard
 
-**Tech Stack**
+**Tech**
 
-React • Flask • MongoDB • Machine Learning • JWT
+`React` `Flask` `MongoDB` `Scikit-Learn`
 
 ---
 
-# 📚 Currently Learning
+# 📚 Currently Exploring
 
 - Agentic AI
-- Advanced Prompt Engineering
-- RAG Pipelines
-- Vector Databases
+- Prompt Engineering
 - LangChain
-- LLM Application Development
-- Software Architecture
+- Vector Databases
+- AI Agents
+- LLM Evaluation
+- RAG Pipelines
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krishnanjalitm&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnanjalitm&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 📊 Activity Graph
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🐍 Contribution Snake
+
+> Enable GitHub Actions before using.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
+
+---
+
+# 🏅 Achievements
+
+- 🎓 MCA Student
+- 🤖 AI & LLM Enthusiast
+- 🌾 Building AI-powered Agriculture Solutions
+- 💻 Full Stack Developer
+- 📖 Lifelong Learner
 
 ---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="center">
 
-<a href="https://github.com/krishnanjalitm">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Developer Quote
+# 💡 Quote
 
-> "Code is more than solving problems—it's about creating solutions that make a difference."
+<p align="center">
+
+> **"Building intelligent software, one commit at a time."**
+
+</p>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=krishnanjalitm&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7F5AF0"/>
 
 </p>
+
+<!-- ========================= END ========================= -->
