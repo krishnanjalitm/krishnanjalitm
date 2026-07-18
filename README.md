@@ -134,9 +134,7 @@ React • Flask • MongoDB • Machine Learning • JWT
 # 📈 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnanjalitm&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 ---
@@ -144,9 +142,7 @@ React • Flask • MongoDB • Machine Learning • JWT
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=krishnanjalitm&theme=algolia&no-frame=true&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
