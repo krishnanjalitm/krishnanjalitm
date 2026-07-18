@@ -193,7 +193,7 @@ Sleep Mode   : DISABLED
 
 <p align="center">
 
-<a href="https://linkedin.com/in/krishnanjalitm">
+<a href="https://www.linkedin.com/in/krishnanjali-t-m-369178317/">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
