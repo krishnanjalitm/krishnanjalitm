@@ -93,9 +93,9 @@ Student → AI Analysis → Placement Roadmap
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krishnanjalitm&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=krishnanjalitm&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -105,7 +105,7 @@ Student → AI Analysis → Placement Roadmap
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnanjalitm&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -113,7 +113,7 @@ Student → AI Analysis → Placement Roadmap
 
 # 🐍 CONTRIBUTION MATRIX
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/krishnanjalitm/krishnanjalitm/output/github-contribution-grid-snake-dark.svg"/>
 
 ---
 
@@ -121,15 +121,15 @@ Student → AI Analysis → Placement Roadmap
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/krishnanjalitm">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/krishnanjali-t-m-369178317/)">
 <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:krishnanjalitm@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-FF0080?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -141,6 +141,6 @@ Student → AI Analysis → Placement Roadmap
 
 ## ⚡「 There is no limit to what code can create. 」
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=krishnanjalitm&style=for-the-badge&color=blueviolet"/>
 
 </div>
